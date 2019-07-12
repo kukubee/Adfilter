@@ -1,5 +1,5 @@
 [Adblock Plus 2.1]
-! Title:  用户规则[2019-07-08]
+! Title:  用户规则[2019-07-12]
 
 !〓〓〓〓〓〓〓〓
 ! ★  墙  内  ★ 
@@ -107,6 +107,8 @@ rfi.fr##header
 rfi.fr##.cookie-bar
 !》文章页面》右下角浮动弹窗
 rfi.fr###ppn-wrapper
+!■德国之声》文章页面》底部cookies提示横幅
+dw.com##div[class="cookie cookie--visible"]
 
 
 
