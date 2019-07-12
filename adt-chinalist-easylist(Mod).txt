@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: vXO2skD37egAcrKzRVhe1A
 ! Version: 201907081716
-! Title: ChinaList+EasyList(修正)
+! Title: ChinaList+EasyList(UserMod修正)
 ! ChinaList and EasyList combination subscription
 ! Last modified: 03 Feb 2014 03:50 UTC
 ! Expires: 2 days (update frequency)
