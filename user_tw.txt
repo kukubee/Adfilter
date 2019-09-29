@@ -1,0 +1,71 @@
+﻿[Adblock Plus 2.0]
+! Title: user_tw2019-09-29
+||cloudfront.net/atrk.js
+||.cnzz.com/
+||hm.baidu.com/
+||bdimg.share.baidu.com/static/api/js/*.js
+||ada.52lubo.cn/*.js
+jingyan.baidu.com##.wgt-feeds-video
+||hiphotos.baidu.com/*/pic/item/*.jpg?v=tbs
+||imgsrc.baidu.com/forum/*/sign=*.jpg?v=tbs
+||c.hiphotos.bdimg.com/album/*/sign=*/*.jpg?v=tbs
+mail.163.com##.gWel-recommend
+guancha.cn##.member_recruit_index
+zhihu.com##.Pc-feedAd-container
+douban.com###landing-bar
+bbs.zol.com.cn##.fixed-login-bar
+guokr.com##.guokr-layer-beforelogin
+blog.sina.com.cn##.btn
+blog.sina.com.cn##.nsinatopbar
+blog.sina.com.cn###ramdomVisitDiv
+weibo.com##div[i-am-music-player=""]
+weibo.com##div[feedtype="ad"]
+weibo.com##div[node-type="feed_privateset_tip"]
+tianya.cn##.tybc-ad
+tianya.cn##.barcode-float
+tianya.cn##.bbs-bottom-nav
+tianya.cn###niuren_ifm
+tianya.cn###bbs_float_menu
+tianya.cn###bbs_login_div
+tianya.cn###recommend_wrapper
+||static.tianyaui.com/global/broadcast/
+||static.tianyaui.com/global/wizard/js/wizard.js
+||static.tianyaui.com/qy/adsame/ads-key-dict.js
+dict.youdao.com##div[class="dialog-guide-download win-download"]
+zaobao.com.sg###celtra-banner
+zaobao.com.sg###dfp-ad-lb1
+zaobao.com.sg###dfp-ad-imu1
+zaobao.com.sg###dfp-ad-imu2
+zaobao.com.sg###dfp-ad-imu3
+zaobao.com.sg##div[class="optanon-alert-box-wrapper  hide-cookie-setting-button"]
+||adsfactor.net/
+||google-analytics.com
+||google*.com/pagead/
+youtube.com##.video-ads
+youtube.com###masthead-ad
+facebook.com##.sponsored_ad
+twitter.com##div[class="css-1dbjc4n r-aqfbo4 r-1p0dtai r-1d2f490 r-12vffkv r-1xcajam r-zchlnj"]
+rfi.fr##header
+rfi.fr###cookiebar
+rfi.fr##.o-ad-container
+rfi.fr##.m-interstitial
+dw.com##div[class="cookie cookie--visible"]
+voacantonese.com##.wsw__embed
+https://cdn1d-static-shared.phncdn.com/iframe-1.1.5.html
+https://cdnegc.trafficfactory.biz/banners/
+https://mysmokingmistress.com/saber/vjav/dutti/
+vjav.com##.iRx9
+vjav.com##td[style="transform: scale(0.748);"]
+vjav.com##td[style="transform: scale(0.992);"]
+vjav.com##div[class="poper poper_show"]
+https://sextoysgfs.com/saber/vjav/dutti/
+https://cradver.livejasmin.com/pu/fsrnd?
+pornhub.com##video
+https://static.exoclick.com/library/*.gif
+https://static.tuokulu.com/koukoku/*.gif
+https://www.javbus.com/ads/*
+javbus.com##div[class="col-xs-12 col-md-4 text-center ptb10"]
+fbjav.net##.ads-sidebar
+fbjav.net##.ads-player
+fbjav.net###vstr_vast
+svpri.xyz###vstr_vast
